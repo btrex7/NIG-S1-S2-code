@@ -1,4 +1,4 @@
-# NIG-S1-S2-R-Codes-and-Syntax-for-NGX-Listed-Companies-on-SDQ-and-CDQ
+NIG-S1-S2: R Codes and Syntax for NGX-Listed Companies on SDQ and CDQ
 
 Bernard Asanbe (2026)
 
