@@ -1,9 +1,8 @@
 # NIG-S1-S2-R-Codes-and-Syntax-for-NGX-Listed-Companies-on-SDQ-and-CDQ
-This repository contains the R codes and Syntax associated with the MBA thesis "SUSTAINABILITY DISCLOSURE QUALITY ON FIRM VALUE: EVIDENCE FROM NGX-LISTED COMPANIES UNDER IFRS S1/S2 REPORTING FRAMEWORK"
 
 Bernard Asanbe (2026)
 
-[![DOI](https://doi.org/10.5281/zenodo.22062784)
+[DOI](https://doi.org/10.5281/zenodo.22062784)
 
 Companion data repository: NIG-S1-S2: A Dataset for NGX-Listed Companies on SDQ and CDQ — [https://doi.org/10.5281/zenodo.22062525]
 
